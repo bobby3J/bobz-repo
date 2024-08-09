@@ -1,3 +1,4 @@
 # bobz-repo
 
-My first project using react native for an ecommerce site!
+My first project using html and 
+javascript for an image slider.

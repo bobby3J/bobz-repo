@@ -1,3 +1,3 @@
 # bobz-repo
 
-My first project using react native for an ecommerce site!
+My first project using react for an ecommerce site!
